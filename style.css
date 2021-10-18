@@ -1,0 +1,17 @@
+.cell{
+    background-color: rgb(64, 128, 0);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    font-size: 50px;
+    color: rgb(189, 182, 175);
+    text-align: center;
+    line-height: 100px;
+  }
+  #main{
+    min-height: 100%;
+    min-height: 100vh;
+   
+    display: flex;
+    align-items: center;
+  }
